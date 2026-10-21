@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="Button 1"
         android:textColor="#FFFFFF"
-        android:backgroundTint="#607D8B"
+        android:backgroundTint="#4CAF50"
         android:layout_marginBottom="20dp"/>
 
     <Button
@@ -33,6 +33,6 @@
         android:layout_height="wrap_content"
         android:text="Button 2"
         android:textColor="#FFFFFF"
-        android:backgroundTint="#607D8B"/>
+        android:backgroundTint="#4CAF50" />
 
 </LinearLayout>
